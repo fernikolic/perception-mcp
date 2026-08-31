@@ -1,0 +1,17 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-07-09/server.schema.json",
+  "name": "io.github.fernikolic/perception",
+  "description": "Real-time digital asset narrative intelligence from thousands of curated media sources through 31 MCP tools.",
+  "status": "active",
+  "repository": {
+    "url": "https://github.com/fernikolic/perception-mcp",
+    "source": "github"
+  },
+  "version": "1.0.0",
+  "remotes": [
+    {
+      "url": "https://mcp.perception.to/mcp",
+      "type": "streamable-http"
+    }
+  ]
+}

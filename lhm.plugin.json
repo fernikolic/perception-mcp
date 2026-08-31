@@ -1,0 +1,23 @@
+{
+  "identifier": "fernikolic-perception-mcp",
+  "name": "Perception MCP",
+  "version": "1.0.0",
+  "author": "Perception",
+  "authorUrl": "https://perception.to",
+  "homepage": "https://perception.to/integrations/mcp",
+  "cloudEndpoint": "https://mcp.perception.to/mcp",
+  "category": "finance",
+  "description": "Digital asset narrative intelligence from thousands of curated media sources and 15 years of history through 31 MCP tools.",
+  "localizations": [],
+  "resources": [],
+  "tags": [
+    "digital-assets",
+    "finance",
+    "research",
+    "media-monitoring",
+    "sentiment",
+    "remote-mcp",
+    "oauth"
+  ],
+  "tools": []
+}
